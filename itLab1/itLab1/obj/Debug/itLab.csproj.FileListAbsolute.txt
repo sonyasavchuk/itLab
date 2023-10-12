@@ -1,0 +1,11 @@
+D:\study\it\lab1\itLab1\itLab1\bin\Debug\itLab1.exe.config
+D:\study\it\lab1\itLab1\itLab1\bin\Debug\itLab1.exe
+D:\study\it\lab1\itLab1\itLab1\bin\Debug\itLab1.pdb
+D:\study\it\lab1\itLab1\itLab1\obj\Debug\itLab.csproj.AssemblyReference.cache
+D:\study\it\lab1\itLab1\itLab1\obj\Debug\itLab.csproj.SuggestedBindingRedirects.cache
+D:\study\it\lab1\itLab1\itLab1\obj\Debug\itLab1.Form1.resources
+D:\study\it\lab1\itLab1\itLab1\obj\Debug\itLab1.Properties.Resources.resources
+D:\study\it\lab1\itLab1\itLab1\obj\Debug\itLab.csproj.GenerateResource.cache
+D:\study\it\lab1\itLab1\itLab1\obj\Debug\itLab.csproj.CoreCompileInputs.cache
+D:\study\it\lab1\itLab1\itLab1\obj\Debug\itLab1.exe
+D:\study\it\lab1\itLab1\itLab1\obj\Debug\itLab1.pdb
